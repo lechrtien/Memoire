@@ -13,26 +13,27 @@
 <body>
     <section class="wrapper">
         <div class="form signup">
-            <header>Signup</header>
+            <header>S'inscrire</header>
             <form action="#">
-                <input type="text" placeholder="Full name" required />
-                <input type="text" placeholder="Email address" required />
-                <input type="password" placeholder="Password" required />
+                <input type="text" placeholder="Nom" required />
+                <input type="text" placeholder="E-mail" required />
+                <input type="password" placeholder="Mot de passe" required />
+                <input type="password" placeholder=" Confimez le mot de passe" required />
                 <div class="checkbox">
                     <input type="checkbox" id="signupCheck" />
-                    <label for="signupCheck">I accept all terms & conditions</label>
+                    <label for="signupCheck">J'accepte tous les termes et condition</label>
                 </div>
-                <input type="submit" value="Signup" />
+                <input type="submit" value="S'inscrire" />
             </form>
         </div>
 
         <div class="form login">
-            <header>Login</header>
+            <header>Se connecter</header>
             <form action="#">
-                <input type="text" placeholder="Email address" required />
-                <input type="password" placeholder="Password" required />
-                <a href="#">Forgot password?</a>
-                <input type="submit" value="Login" />
+                <input type="text" placeholder="E-mail" required />
+                <input type="password" placeholder="Mot de passe" required />
+                <a href="#">Mot de passe oublié?</a>
+                <input type="submit" value="Se connecter" />
             </form>
         </div>
 

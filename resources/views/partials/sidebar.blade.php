@@ -9,15 +9,18 @@
                         <span class="navlink_icon">
                             <i class="bx bx-home-alt"></i>
                         </span>
-                        <span class="navlink">Home</span>
+                        <span class="navlink">Domaine </span>
                         <i class="bx bx-chevron-right arrow-left"></i>
                     </div>
 
                     <ul class="menu_items submenu">
-                        <a href="#" class="nav_link sublink">Nav Sub Link</a>
-                        <a href="#" class="nav_link sublink">Nav Sub Link</a>
-                        <a href="#" class="nav_link sublink">Nav Sub Link</a>
-                        <a href="#" class="nav_link sublink">Nav Sub Link</a>
+                        <a href="#" class="nav_link sublink">Information et Communication</a>
+                        <a href="#" class="nav_link sublink">Techniques de Commercialisation</a>
+                        <a href="#" class="nav_link sublink">Gestion des Entreprises et Administration</a>
+                        <a href="#" class="nav_link sublink">Systèmes Informatiques et Logiciels</a>
+                        <a href="#" class="nav_link sublink">Génie Électrique et Informatique Industrielle</a>
+                        <a href="#" class="nav_link sublink">Génie Mécanique et Productique</a>
+                        <a href="#" class="nav_link sublink">Gestion Logistique et Transport</a>
                     </ul>
                 </li>
                 <!-- end -->
@@ -41,91 +44,28 @@
                     </ul>
                 </li>
                 <!-- end -->
-            </ul>
 
-            <ul class="menu_items">
-                <div class="menu_title menu_editor"></div>
-                <!-- duplicate these li tag if you want to add or remove navlink only -->
-                <!-- Start -->
-                <li class="item">
-                    <a href="#" class="nav_link">
-                        <span class="navlink_icon">
-                            <i class="bx bxs-magic-wand"></i>
-                        </span>
-                        <span class="navlink">Magic build</span>
-                    </a>
-                </li>
-                <!-- End -->
 
-                <li class="item">
-                    <a href="#" class="nav_link">
+                <ul class="menu_items">
+                    <div class="Connexion_title connexion_setting"></div>
+                    <li class="item">
+                      <a href="#" class="nav_link">
                         <span class="navlink_icon">
-                            <i class="bx bx-loader-circle"></i>
+                            <i class='bx bx-log-out'></i>
                         </span>
-                        <span class="navlink">Filters</span>
-                    </a>
-                </li>
-                <li class="item">
-                    <a href="#" class="nav_link">
-                        <span class="navlink_icon">
-                            <i class="bx bx-filter"></i>
-                        </span>
-                        <span class="navlink">Filter</span>
-                    </a>
-                </li>
-                <li class="item">
-                    <a href="#" class="nav_link">
-                        <span class="navlink_icon">
-                            <i class="bx bx-cloud-upload"></i>
-                        </span>
-                        <span class="navlink">Upload new</span>
-                    </a>
-                </li>
-            </ul>
-            <ul class="menu_items">
-                <div class="menu_title menu_setting"></div>
-                <li class="item">
-                    <a href="#" class="nav_link">
-                        <span class="navlink_icon">
-                            <i class="bx bx-flag"></i>
-                        </span>
-                        <span class="navlink">Notice board</span>
-                    </a>
-                </li>
-                <li class="item">
-                    <a href="#" class="nav_link">
-                        <span class="navlink_icon">
-                            <i class="bx bx-medal"></i>
-                        </span>
-                        <span class="navlink">Award</span>
-                    </a>
-                </li>
-                <li class="item">
-                    <a href="#" class="nav_link">
-                        <span class="navlink_icon">
-                            <i class="bx bx-cog"></i>
-                        </span>
-                        <span class="navlink">Setting</span>
-                    </a>
-                </li>
-                <li class="item">
-                    <a href="#" class="nav_link">
-                        <span class="navlink_icon">
-                            <i class="bx bx-layer"></i>
-                        </span>
-                        <span class="navlink">Features</span>
-                    </a>
-                </li>
-            </ul>
+                        <span class="navlink">Se deconnecter</span>
+                      </a>
+                    </li>
+            
 
             <!-- Sidebar Open / Close -->
             <div class="bottom_content">
                 <div class="bottom expand_sidebar">
-                    <span> Expand</span>
+                    <span> Développer</span>
                     <i class='bx bx-log-in'></i>
                 </div>
                 <div class="bottom collapse_sidebar">
-                    <span> Collapse</span>
+                    <span> S'effonder</span>
                     <i class='bx bx-log-out'></i>
                 </div>
             </div>
